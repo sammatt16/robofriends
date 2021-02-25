@@ -10,9 +10,9 @@
   "runtime~main.js": "/robofriends/static/js/runtime~main.04651cfe.js",
   "runtime~main.js.map": "/robofriends/static/js/runtime~main.04651cfe.js.map",
   "static/media/App.css": "/robofriends/static/media/SEGA.12a3db8b.woff",
-  "static/css/2.71accbca.chunk.css.map": "/robofriends/static/css/2.71accbca.chunk.css.map",
   "static/css/main.f4f4e44a.chunk.css.map": "/robofriends/static/css/main.f4f4e44a.chunk.css.map",
+  "static/css/2.71accbca.chunk.css.map": "/robofriends/static/css/2.71accbca.chunk.css.map",
   "index.html": "/robofriends/index.html",
-  "precache-manifest.b5602fe299fca3aa98a1714eed7339f9.js": "/robofriends/precache-manifest.b5602fe299fca3aa98a1714eed7339f9.js",
+  "precache-manifest.e73057fd6a5e74fc76b025370bdd105f.js": "/robofriends/precache-manifest.e73057fd6a5e74fc76b025370bdd105f.js",
   "service-worker.js": "/robofriends/service-worker.js"
 }
